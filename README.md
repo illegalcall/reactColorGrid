@@ -1,5 +1,6 @@
 ## Steps
 1. Clone the repo
-2. cd to my-app
-3. npm i
-4. npm start
+2. Open the folder
+3. cd my-app
+4. npm i
+5. npm start
